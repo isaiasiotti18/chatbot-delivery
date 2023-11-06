@@ -1,4 +1,5 @@
 <?php
+
   require("../../services/check_session.php");
 
   require $_SERVER['DOCUMENT_ROOT'].'/database/connection.php';
@@ -12,7 +13,7 @@
   $gas = $emailExistsResult['prod_gas'];
   $agua = $emailExistsResult['prod_agua'];
 
-$adm = 0;
+  $adm = 0;
 
 ?>
 

@@ -1,4 +1,4 @@
-# Fixed Responsive Nav
+'# Fixed Responsive Nav
 
 ### Responsive, fixed and touch friendly one page navigation, using [Responsive Nav](http://responsive-nav.com/), smooth animated scrolling & vanilla JavaScript. Similar to the solution we are using on [Adtile’s site](http://www.adtile.me/).
 

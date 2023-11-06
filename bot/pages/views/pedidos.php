@@ -8,7 +8,7 @@ $adm = 0;
 <?php include("../partials/header.php") ?>
 
   <section>
-    <?php include("../partials/pedido.php") ?>
+    <?php include("../partials/list_pedido.php") ?>
   </section>
 
 
@@ -37,11 +37,6 @@ $adm = 0;
     border-radius: 5px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
     max-width: 500px;
-    margin: 10px auto;
-  }
-
-  #divform {
-    margin-top: 25px;
   }
 
   table {
